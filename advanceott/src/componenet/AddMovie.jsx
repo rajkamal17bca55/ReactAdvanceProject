@@ -82,6 +82,7 @@ const AddMovie = () => {
             <hr />
             <hr />
             <form onSubmit={AddMovie1} >
+                <h1>hii kamal</h1>
                 <input type="text" placeholder="Enter Movie Name" ref={moviename} required />
                 <input type="text" placeholder="Enter Hero Name" ref={hero} required />
                 <input type="text" placeholder="Enter Heroini Name" ref={heroine} required />
